@@ -8,7 +8,7 @@ package com.github.vitalliuss.helloci;
 public class EmptyClass {
 	
 	public static void emptyMethod() {
-		// empty
+		// some changes
 	}
 	
 	public static void unusedMethod() {
